@@ -1,0 +1,3 @@
+include ':animlibrary'
+include ':app'
+rootProject.name = "TextAnimSurface"
